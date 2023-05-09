@@ -50,9 +50,9 @@ Oiii eu sou a Anderson Sá, criador de conteúdo de programação e tecnologia!�
 </div><br>
 
 
-![matheusmanuel](https://github-readme-stats.vercel.app/api?username=matheusmanuel&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![matheusmanuel](https://github-readme-stats.vercel.app/api?username=andersoncode55_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncode55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=matheusmanuel&color=green" alt="matheusmanuel" /> 
+<img src="https://komarev.com/ghpvc/?username=andersoncode55&color=green" alt="andersoncode55" /> 
 
 
