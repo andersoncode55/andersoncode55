@@ -1,7 +1,8 @@
 Oiii eu sou a Anderson Sá, criador de conteúdo de programação e tecnologia!✨
 
+![Olá](https://github.com/andersoncode55/andersoncode55/assets/61977421/a0cd3003-7ec9-4818-96a0-0f0b77aa9cf4)
 
-![BOAS-VINDAS AOS NOVOS ESTUDANTES! CAMPUS DA UNIVERSIDADE =23H](https://github.com/andersoncode55/andersoncode55/assets/61977421/e557c4e7-5d2e-49b5-9a93-be43b56eb1b7)
+
 
 
 - 🔭 Atualmente estou trabalhando em...
